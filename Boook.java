@@ -3,9 +3,9 @@ public class Boook {
 
     String name;
     Author author;
-	double preço;
+	double preï¿½o;
 	int quantEmEstoque;
 	
 	
- 
+ //carai
 }
