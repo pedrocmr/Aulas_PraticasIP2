@@ -3,7 +3,7 @@ public class Boook {
 
     String name;
     Author author;
-	double pre�o;
+	double preco;
 	int quantEmEstoque;
 	
 	
